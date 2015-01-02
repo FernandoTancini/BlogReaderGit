@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlogReader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty">No items to display!</string>
+    <string-array name="tests">
+        <item>"test0"</item>
+        <item>"test1"</item>
+        <item>"test2"</item>
+        <item>"test3"</item>
+    </string-array>
+    <string name="error_title">Oops sorry!</string>
+    <string name="error_message">There was an arror getting data from the blog</string>
+
+</resources>
