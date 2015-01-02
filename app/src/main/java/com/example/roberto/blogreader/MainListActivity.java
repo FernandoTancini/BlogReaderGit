@@ -248,7 +248,6 @@ public class MainListActivity extends ListActivity {
             return jsonResponse;
         }
 
-
         @Override
         protected void onPostExecute(JSONObject result) {
             mblogData = result;
